@@ -1,2 +1,2 @@
-# CCPROG1
-Logic Formulation and Introductory Programming
+# CCS-CCPROG1-Middle-Ages-Era
+CCPROG1 Course from CCS in DLSU from Term 1 AY 2024-2025
